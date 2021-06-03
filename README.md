@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World! 👋
+
+I'm Ramiro from Argentina, and i do Mobile Development. I really enjoy learning languages and fameworks like Kotlin, Flutter, as well as work in Android Studio. I also enjoy wireframing, ui, ux and design in general. You can check out my LinkedIn at https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/ or my Portfolio ...
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiaquista)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **ramiaquista/ramiaquista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
