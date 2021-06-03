@@ -7,10 +7,8 @@ I'm Ramiro from Argentina, and i do Mobile Development. I really enjoy learning 
 ## Skills and Experience
 * 🔥 Firebase
 * 📱 Flutter - Kotlin
+* 💻 Mysql
 * 🗺️ MapBox
-* 💾 MYSQL
-
-Skills: FLUTTER / FIREBASE / KOTLIN / MYSQL / MAPBOX
 
 - 🔭 I’m currently working on Pet's Hope - https://apetshope.com/ .
 - 🌱 I’m currently learning Kotlin
