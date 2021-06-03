@@ -9,6 +9,7 @@ I'm Ramiro from Argentina, and i do Mobile Development. I really enjoy learning 
 * 📱 Flutter - Kotlin
 * 💻 Mysql
 * 🗺️ MapBox
+* 📖 Other Knowledges ( Python / Java / html / css/ JavaScript )
 
 - 🔭 I’m currently working on Pet's Hope - https://apetshope.com/ .
 - 🌱 I’m currently learning Kotlin
