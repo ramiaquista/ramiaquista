@@ -10,9 +10,7 @@ Skills: FLUTTER / FIREBASE / KOTLIN / MYSQL / MAPBOX
 - 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: ramiaquista70@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramiaquista)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramiaquista/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramiaquista)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramiaquista/)  
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiaquista)](https://github.com/anuraghazra/github-readme-stats)
