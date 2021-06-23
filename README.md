@@ -9,10 +9,10 @@ I'm Ramiro from Argentina, and i do Mobile Development. I really enjoy learning 
 * 📱 Flutter - Kotlin
 * 💻 Mysql
 * 🗺️ MapBox
-* 📖 Other Knowledges ( Python / Java / html / css/ JavaScript )
+* 📖 Other Knowledges ( Python / Java / html / css/ JavaScript / React )
 
 - 🔭 I’m currently working on Pet's Hope - https://apetshope.com/ .
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Solidity ( ETH Dev Full Stack in progress )
 - 📫 How to reach me: ramiaquista70@gmail.com 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramiaquista)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramiaquista/)  
