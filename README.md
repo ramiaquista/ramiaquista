@@ -11,7 +11,6 @@ I'm Ramiro from Argentina, and i do Mobile Development. I really enjoy learning 
 * 🗺️ MapBox
 * 📖 Other Knowledges ( Python / Java / html / css/ JavaScript / React )
 
-- 🔭 I’m currently working on Pet's Hope - https://apetshope.com/ .
 - 🌱 I’m currently learning Solidity ( ETH Dev Full Stack in progress )
 - 📫 How to reach me: ramiaquista70@gmail.com 
 
