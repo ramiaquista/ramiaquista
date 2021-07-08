@@ -1,15 +1,14 @@
 ### Hi there 👋, Ramiro Aquistapace
-#### I'm a Mobile Developer
-![Mobile Development](https://www.joomlageeks.com/wp-content/uploads/2014/05/Joomla-Mobile-Development.png)
+#### I'm a Software Dev
+
 
 I'm Ramiro from Argentina, and i do Mobile Development. I really enjoy learning languages and fameworks like Kotlin, Flutter, as well as work in Android Studio. I also enjoy wireframing, ui, ux and design in general. You can check out my LinkedIn at https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/
 
 ## Skills and Experience
 * 🔥 Firebase
 * 📱 Flutter - Kotlin
-* 💻 Mysql
-* 🗺️ MapBox
-* 📖 Other Knowledges ( Python / Java / html / css/ JavaScript / React )
+* 💻 Mysql - Postgres
+* 📖 Python / Java / html / css/ JavaScript / React
 
 - 🌱 I’m currently learning Solidity ( ETH Dev Full Stack in progress )
 - 📫 How to reach me: ramiaquista70@gmail.com 
