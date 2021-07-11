@@ -13,7 +13,4 @@ I'm Ramiro from Argentina, and i do Mobile Development. I really enjoy learning 
 - 🌱 I’m currently learning Solidity ( ETH Dev Full Stack in progress )
 - 📫 How to reach me: ramiaquista70@gmail.com 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ramiaquista)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramiaquista/)  
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiaquista)](https://github.com/anuraghazra/github-readme-stats)
+ [<img src='https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562'>]
