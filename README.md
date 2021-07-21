@@ -1,4 +1,4 @@
-#              Hi there 👋, Ramiro Aquistapace 
+#Hi there 👋, I'm Ramiro Aquistapace 
 #### I'm a Software Dev - Microverse Student
 
 
