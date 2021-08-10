@@ -7,7 +7,6 @@ I'm Ramiro from Argentina, and i do Software Development. I really enjoy learnin
 
 ## Skills and Experience
 * 🔥 Firebase
-* 📱 Flutter - Kotlin
 * 💻 Mysql - Postgres
 * 📖 Python / Java / html / css/ JavaScript / React
 
