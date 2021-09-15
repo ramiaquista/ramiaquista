@@ -6,8 +6,7 @@
 I'm Ramiro from Argentina, and i do Software Development. I really enjoy learning languages and fameworks, as well as work in NeoVim. I also enjoy blockchain, smart contracts, and Solidty in general. You can check out my LinkedIn at https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/
 
 ## Skills and Experience
-* 🔥 Firebase
-* 💻 Mysql - Postgres
+* 🔥 Firebase - Mysql - Postgres
 * 📖 Python / Java / html / css/ JavaScript / React
 
 - 🌱 I’m currently learning Solidity ( ETH Dev Full Stack in progress )
