@@ -3,13 +3,12 @@
 
 
 
-I'm Ramiro from Argentina, and i do Software Development. I really enjoy learning languages and fameworks, as well as work in NeoVim. I also enjoy blockchain, smart contracts, and Solidty in general. You can check out my LinkedIn at https://www.linkedin.com/in/ramiro-aquistapace-32b61b204/
+I'm Ramiro from Argentina, and i'm a  Software developer, Rails enthusiast. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job! I also enjoy blockchain, smart contracts, and Solidty in general.
 
 ## Skills and Experience
 * 🔥 Firebase - Mysql - Postgres
-* 📖 Python / Java / html / css/ JavaScript / React
+* 📖 Python / Java / Ruby / HTML / CSS / JavaScript / React 
 
-- 🌱 I’m currently learning Solidity ( ETH Dev Full Stack in progress )
 - 📫 How to reach me: ramiaquista70@gmail.com 
 - 🔨 6 Moths of Experience on Development working for Pet's Hope
 
