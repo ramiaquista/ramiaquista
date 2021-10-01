@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Ramiro Aquistapace 
-#### I'm a Software Dev - Microverse Student
+#### I'm a <i>Full-Stack Developer</i> - Microverse Student
 
 
 
-I'm Ramiro from Argentina, and i'm a  Software developer, Rails enthusiast. Stack: JavaScript, Ruby, Rails, React, Redux. Looking for my next job! I also enjoy blockchain, smart contracts, and Solidty in general.
+I'm Ramiro from Argentina, and i'm a  <i>Full-Stack Developer</i>, Rails enthusiast. Stack: <i>JavaScript</i>, <i>Ruby</i>, <i>Rails</i>, <i>React</i>, <i>Redux</i>. Looking for my next job! I also enjoy blockchain, smart contracts, and Solidty in general.
 
 ## Skills and Experience
 * 🔥 Firebase - Mysql - Postgres
