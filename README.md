@@ -5,6 +5,8 @@
 
 I'm Ramiro from Argentina, and i'm a  <i>Full-Stack Developer</i>, Rails enthusiast. Stack: <i>JavaScript</i>, <i>Ruby</i>, <i>Rails</i>, <i>React</i>, <i>Redux</i>. Looking for my next job! I also enjoy blockchain, smart contracts, and Solidty in general.
 
+Currently available for a new job! 🔥
+
 ## Skills and Experience
 * 🔥 Firebase - Mysql - Postgres
 * 📖 Python / Java / Ruby / HTML / CSS / JavaScript / React 
