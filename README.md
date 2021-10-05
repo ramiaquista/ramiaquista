@@ -8,7 +8,7 @@ I'm Ramiro from Argentina, and I'm a  <i>Full-Stack Developer</i>, Rails enthusi
 Currently available for a new job! 🔥
 
 ## Skills and Experience
-* 🔥 Firebase - Mysql - Postgres
+* 🔥 Firebase - MySQL - PostgreSQL
 * 📖 Python / Java / Ruby / HTML / CSS / JavaScript / React 
 
 - 📫 How to reach me: ramiaquista70@gmail.com 
