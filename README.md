@@ -3,7 +3,7 @@
 
 
 
-I'm Ramiro from Argentina, and I'm a  <i>Full-Stack Developer</i>, Rails enthusiast. Stack: <i>JavaScript</i>, <i>Ruby</i>, <i>Rails</i>, <i>React</i>, <i>Redux</i>. Looking for my next job! I also enjoy blockchain, smart contracts, and Solidty in general.
+I'm Ramiro from Argentina, and I'm a  <i>Full-Stack Developer</i>, Rails enthusiast. Stack: <i>JavaScript</i>, <i>Ruby</i>, <i>Rails</i>, <i>React</i>, <i>Redux</i>. Looking for my next job! I also enjoy blockchain, smart contracts, and <i>Solidity</i> in general.
 
 Currently available for a new job! 🔥
 
