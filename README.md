@@ -9,7 +9,7 @@ Currently available for a new job! 🔥
 
 ## Skills and Experience
 * 🔥 Firebase - MySQL - PostgreSQL
-* 📖 Python / Java / Ruby / HTML / CSS / JavaScript / React 
+* 📖 Python / Java / Ruby / HTML / CSS / JavaScript / React / Ruby on Rails
 
 - 📫 How to reach me: ramiaquista70@gmail.com 
 - 🔨 6 Moths of Experience on Development working for Pet's Hope
