@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Ramiro Aquistapace 
-#### I'm a <i>Full-Stack Developer</i> - Microverse Student
+#### I'm a <i>Senior Sofwtare Engineer</i> - at Eventbrite
 
 
 
-I'm Ramiro from Argentina, and I'm a  <i>Full-Stack Developer</i>, Rails enthusiast. Stack: <i>JavaScript</i>, <i>Ruby</i>, <i>Rails</i>, <i>React</i>, <i>Redux</i>. Looking for my next job! I also enjoy blockchain, smart contracts, and <i>Solidity</i> in general.
+I'm Ramiro from Argentina ( living in Spain ), working for a big corp company called Eventbrite and in my free time enjoying blockchain, smart contracts, and <i>Solidity</i> in general.
 
 Currently available for a new job! 🔥
 
