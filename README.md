@@ -15,7 +15,7 @@ Currently available for a new job! 🔥
 
 - 📫 How to reach me: ramiaquista70@gmail.com 
 - 📝 6 Moths of Experience on Development working for Pet's Hope
-- 📝 2 Years of Experience on FullStack Development working for [Eventbrite](https://www.eventbrite.com/) - Currently working for Eventbrite.
+- 📝 3 Years of Experience on FullStack Development working for [Eventbrite](https://www.eventbrite.com/) - Currently working for Eventbrite.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiaquista&show_icons=true&theme=dark)
