@@ -18,5 +18,10 @@ I'm Ramiro from Argentina ( living in Spain ), working for Moonpay as Web3 Engin
 - 📝 4 Months working for Moonpay --> Current job.
 
 
+## Github Profiles by Companies
+- Eventbrite → https://github.com/ramiroa-eb
+- Moonpay → https://github.com/rtagua
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramiaquista&show_icons=true&theme=dark)
 
